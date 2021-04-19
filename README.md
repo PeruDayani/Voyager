@@ -1,5 +1,5 @@
 # Voyager
-Chrome Extension to augment article reading list management.
+Chrome Extension to help (me) manage reading articles online.
 
 ## Overview:
 1. Save any article (website url) by clicking the 'Save' button.
