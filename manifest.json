@@ -2,7 +2,7 @@
     "manifest_version": 2,
   
     "name": "Voyager",
-    "description": "Bookmark links and randomly launch one.",
+    "description": "Manage all the articles you read online.",
     "version": "0.0.0.1",
     "icons": { "128": "idea_128.png" },
     "browser_action": {
