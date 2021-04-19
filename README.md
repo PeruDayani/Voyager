@@ -3,10 +3,10 @@ Chrome Extension to help (me) manage reading articles online.
 
 ## Overview:
 1. Save any article (website url) by clicking the 'Save' button.
-2. View and edit the saved unread articles in the expanded settings tab.
+2. View all the saved unread articles in the expanded settings tab. Remove or open any there optionally.
 3. Launch a random unread article by pressing the 'Explore' button
 4. Once you've read an article, mark the article (website url) as read by clicking the 'Read' button.
-5. View and edit the saved read articles in the expanded setting tab.
+5. View all the saved read articles in the expanded settings tab. Move to unread or open any there optionally.
 6. You can futher clear the unread articles, read articles and download your data in the expanded settings tab.
 
 ### Chrome Store Link:
