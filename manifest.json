@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+  
+    "name": "Voyager",
+    "description": "Bookmark links and randomly launch one.",
+    "version": "0.0.0.1",
+    "icons": { "128": "idea_128.png" },
+    "browser_action": {
+      "default_icon": "idea_24.png",
+      "default_popup": "popup.html"
+    },
+    "permissions": [
+      "tabs"
+    ]
+  }
