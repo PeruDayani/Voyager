@@ -10,7 +10,7 @@ Chrome Extension to help (me) manage reading articles online.
 6. You can further clear the unread articles, read articles and download your data in the expanded settings tab.
 
 ### Chrome Store Link:
-Coming soon
+https://chrome.google.com/webstore/detail/voyager/jncbnjiidhajcbamfpehpflpnlfofpgc
 
 ### Manual Setup Instructions:
 1. Download/clone the repository.
